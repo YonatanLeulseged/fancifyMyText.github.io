@@ -1,1 +1,3 @@
-#fancifymytext
+---
+permalink: /fancifymytext.html
+---
